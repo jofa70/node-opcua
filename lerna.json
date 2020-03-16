@@ -3,5 +3,6 @@
     "packages/*",
     "packages_extra/*"
   ],
-  "version": "2.5.0-alpha.15"
+  "version": "2.5.0-alpha.15",
+  "dist-tag": "next"
 }

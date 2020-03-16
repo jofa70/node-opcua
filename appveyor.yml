@@ -45,4 +45,4 @@ test_script:
   - node  ./node_modules/lerna/cli.js run test-typescript
 
 # Don't actually build.
-build: "off"
+build: false
